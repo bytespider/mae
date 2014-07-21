@@ -1,0 +1,30 @@
+{
+  "name": "mae",
+  "version": "0.0.0",
+  "description": "Mean absolute error.  In statistics, the mean absolute error (MAE) is a quantity used to measure how close forecasts or predictions are to the eventual outcomes.",
+  "main": "src/mae.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "mae",
+    "mean",
+    "absolute",
+    "error",
+    "statistics",
+    "average",
+    "aae"
+  ],
+  "author": {
+    "name": "Rob Griffiths",
+    "email": "rob@bytespider.eu",
+    "url": "http://bytespider.eu"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "~0.4.8"
+  }
+}
